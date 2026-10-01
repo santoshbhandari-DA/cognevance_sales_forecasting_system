@@ -1,0 +1,4 @@
+,MAE,RMSE,R2,MAPE_%
+Linear Regression,436.824,555.366,0.999,0.542
+Baseline (same day last week),1877.686,2131.488,0.989,2.39
+Holt-Winters (Time Series),66369.02,84154.758,-16.488,99.83
